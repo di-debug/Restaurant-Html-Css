@@ -4,7 +4,7 @@
 
 Here's the Live Deployed Website ![Project 02](https://img.shields.io/badge/project-02-brightgreen)
 
-## [DEPLOYED WEBSITE](https://project01-portfolio.netlify.app/)
+## [DEPLOYED WEBSITE](https://project02-restaurant.netlify.app/)
 
 ![Completed Website](./thumbnail.png)
 
